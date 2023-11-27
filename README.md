@@ -1,2 +1,2 @@
 # DS-Final-Project
-Final Project Data Science
+Final Project DS-3001 Foundations of Machine Learning 
